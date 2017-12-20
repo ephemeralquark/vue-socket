@@ -1,6 +1,6 @@
 {
   "name": "vue-socket",
-  "version": "0.2.1",
+  "version": "0.2.2",
   "description": "A simple plugin to use with a vue application that allows a vue component to access a websocket instance for the application",
   "main": "dist/index.js",
   "scripts": {
