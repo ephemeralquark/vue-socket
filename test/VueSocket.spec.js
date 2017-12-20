@@ -2,7 +2,7 @@ import VueSocket from '../src/VueSocket'
 import sinon from 'sinon'
 import { expect } from 'chai'
 
-describe('index.js', () => {
+describe('VueSocket', () => {
   let subject, vue
 
   beforeEach(() => {

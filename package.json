@@ -1,10 +1,10 @@
 {
   "name": "vue-socket",
-  "version": "0.2.2",
+  "version": "0.2.3",
   "description": "A simple plugin to use with a vue application that allows a vue component to access a websocket instance for the application",
   "main": "dist/index.js",
   "scripts": {
-    "build": "node node_modules/babel-cli/bin/babel index.js --out-dir dist",
+    "build": "node node_modules/babel-cli/bin/babel src --out-dir dist",
     "test": "mocha --compilers js:babel-core/register"
   },
   "repository": {

@@ -4,7 +4,7 @@ Object.defineProperty(exports, "__esModule", {
   value: true
 });
 
-var _VueSocket = require('./src/VueSocket');
+var _VueSocket = require('./VueSocket');
 
 var _VueSocket2 = _interopRequireDefault(_VueSocket);
 
